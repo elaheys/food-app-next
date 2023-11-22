@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 you can see my app live here:
 https://food-app-next-seven.vercel.app/
 
-som screenShots :
+some screenShots :
 
 ![Screenshot 2023-11-22 115838](https://github.com/elaheys/food-app-next/assets/112415062/3f583e56-6963-4e42-a49e-7d5856339fc8)
 ![Screenshot 2023-11-22 115912](https://github.com/elaheys/food-app-next/assets/112415062/b1f668fb-6a48-46d0-acd8-687919b3a7e7)
